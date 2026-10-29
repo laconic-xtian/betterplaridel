@@ -375,7 +375,7 @@ export function HistoryTimeline() {
                       }`}
                       style={{ color: COLORS.greenDark }}
                     >
-                      MILESTONE · {event.year}
+                    
                     </p>
                   </div>
                 </li>
